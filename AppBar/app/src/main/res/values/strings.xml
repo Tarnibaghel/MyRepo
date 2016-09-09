@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Bar</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_open_app_bar">Open App Bar</string>
+    <string name="menu_done">Search</string>
+    <string name="next_done">Next</string>
+    <string name="title">Tarni</string>
+    <string name="toast">Setting clicked</string>
+    <string name="setting">setting</string>
+    <string name="toast2">Next clicked</string>
+    <string name="toast3">Search clicked</string>
+</resources>
